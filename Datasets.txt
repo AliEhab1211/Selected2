@@ -1,0 +1,7 @@
+Rock-Paper-Scissors new
+
+https://drive.google.com/drive/folders/1ERpc8o3Z1o8srtvMkmrQKGf-5_1ZdiJH?usp=sharing
+
+CIFAR-10
+
+https://www.cs.toronto.edu/~kriz/cifar.html
